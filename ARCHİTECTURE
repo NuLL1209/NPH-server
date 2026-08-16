@@ -1,1 +1,27 @@
-merhaba dünya
+ARCHITETCTURE
+MOTHERBOARD
+contains Socket 478 İntel® Pentium 4 based circuit. Has 2 DDR1 RAM and 2 SATA sockets. İt uses 865 chipset and VRD 10.0 power supply. This project is not for begginners. this motherboard is old, but it is just V1. the power supply is in the motherboard.
+CONTROL
+Controlling a Pentium 4 is not that hard. I use special softwares to control the Pentium 4 like a server.
+COOLING
+I use old fans to cool the hot components and CPU.
+ESP32
+I use an ESP32 for internet and i am connecting the ESP32 to Southbridge using an UART port.
+SOUTHBRIDGE
+I used Intel® NH82801EB southbridge for port management. Southbridges are used in old PCs for port controlling.
+NORTHBRİDGE
+I use Intel® 82865PE for northbridge for CPU communicating with other parts like RAM and southbridge. 
+HUB INTERFACE (HI)
+This part is cables in between northbridge and southbridge. important and easy to make.
+FRONT SIDE BUS (FSB)
+This part is cables in between northbridge and the CPU. Small but very critical part.
+THE CPU
+I used a Socket 478 Pentium 4 in the first prototype. The pentium 4 is making heat so much and needs good airflow and cooling.
+HDD
+There is 2 SATA cables for HDDs. I prefer HDD because SSD can lose data if is not used.
+PORTS
+I use 2 SATA and 2 USB ports in the circuit.
+CODE
+i am writing a code for the project but i didn't finish it. I am going to post it if it is finish in the future.
+
+This is my architecture for NPH. If you got any ideas for the architecture, please commemt below and thanks.
