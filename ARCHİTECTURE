@@ -1,7 +1,7 @@
 ARCHITETCTURE
 MOTHERBOARD
-contains Socket 478 İntel® Pentium 4 based circuit. Has 2 DDR1 RAM and 2 SATA sockets. İt uses 865 chipset and VRD 10.0 power supply.
-This project is not for begginners. this motherboard is old, but it is just V1. the power supply is in the motherboard.
+contains Socket 478 İntel® Pentium 4 based circuit. Has 2 DDR1 RAM and 2 SATA sockets. İt uses 865 chipset and VRD 10.0
+power supply. This project is not for begginners. this motherboard is old, but it is just V1. the power supply is in the motherboard.
 CONTROL
 Controlling a Pentium 4 is not that hard. I use special softwares to control the Pentium 4 like a server.
 COOLING
